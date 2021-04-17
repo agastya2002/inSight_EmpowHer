@@ -2,7 +2,9 @@
 ## Screenshot 
 
 ![Home](https://github.com/agastya2002/inSight_EmpowHer/blob/main/screenshots/screenshot1.png)
+
 ![inSpireEdu](https://github.com/agastya2002/inSight_EmpowHer/blob/main/screenshots/screenshot2.png)
+
 ![imPactHub](https://github.com/agastya2002/inSight_EmpowHer/blob/main/screenshots/screenshot3.png)
 
 ## Abstract
