@@ -5,7 +5,7 @@
 ![inSpireEdu](https://github.com/agastya2002/inSight_EmpowHer/blob/main/screenshots/screenshot2.png)
 ![imPactHub](https://github.com/agastya2002/inSight_EmpowHer/blob/main/screenshots/screenshot3.png)
 
-##Abstract
+## Abstract
 
 The Indian IT industry has emerged as the largest private-sector employer in the country. It also
 emerged as the go-to industry for the woman to gravitate towards because of the economic and
