@@ -39,3 +39,4 @@ discrimination and allows women to be independent, equal, and empowered members 
 We desire to create a virtuous cycle where we can develop a sense of community that succeeds,
 flourishes, and in turn, is inspired to help the next generation of women make their mark on this
 industry.
+
