@@ -7,6 +7,8 @@
 
 ![imPactHub](https://github.com/agastya2002/inSight_EmpowHer/blob/main/screenshots/screenshot3.png)
 
+----
+
 ## Abstract
 
 The Indian IT industry has emerged as the largest private-sector employer in the country. It also
